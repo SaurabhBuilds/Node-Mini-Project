@@ -1,4 +1,4 @@
-# Mini Project - Node.js Authentication and Authorization
+# Mini Project using MongoDB Express Node.js & EJS
 
 This project was created as part of my learning journey in web development. It was designed to help me understand and implement 
 various concepts like authentication, authorization, JWT, hashing, and working with MongoDB. 
