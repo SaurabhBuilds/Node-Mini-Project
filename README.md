@@ -82,7 +82,3 @@ cannot access these routes. This is enforced using JWT tokens.
 Endpoint: GET /logout
 Description: Users can log out from their profile, which will invalidate their session and JWT token, preventing access to protected
 routes until they log in again.
-
-## License
-
-This project is licensed under the MIT License.
